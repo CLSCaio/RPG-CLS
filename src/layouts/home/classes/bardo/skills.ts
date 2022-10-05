@@ -5,18 +5,15 @@ const skills = [
     description: `
     Para cada música diferente tocada ganhe uma 
     Nota. Para cada nota de ao bardo 2% a mais de DEF e SP.DEF.
+    <br/>Sempre que o bardo usar uma skill no alido, 
+    ele também recebe o mesmo efeito.
+
+    <br/><b>OBS:</b> Caso o bardo esteja sozinho, as skills  
+    podem ser usadas nele.
+
     <br/><b>OBS:</b> As notas podem ser gastas para
     fortalecer o bardo.
     `,
-  },
-  {
-    title: "Maestria (Passiva)",
-    isInnerHtml: true,
-    description: `
-    Sempre que o bardo usar uma skill no alido, 
-    ele também recebe o efeito.
-    <br/><b>OBS:</b> Caso o bardo esteja sozinho, as skills  
-    podem ser usadas nele.`,
   },
   {
     title: "Sinfonia (Ativo)",
@@ -39,7 +36,7 @@ const skills = [
     <b>Mana:</b> 20
     <br/><b>Recarga:</b> 3 turnos
     <br/><b>Aliado:</b>O bardo toca seu instrumento
-    aumentando os status em 10%.
+    aumentando os status do aliado em 10%.
     <br/><b>Inimigo:</b>O bardo toca seu instrumento
     infeitiçando seu inimigo e diminuindo os status 
     dele em 5%. 

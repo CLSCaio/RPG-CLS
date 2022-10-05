@@ -15,11 +15,11 @@ const subClasses = [
     `,
   },
   {
-    title: "Ladrão",
+    title: "Vigarista",
     isInnerHtml: true,
     description: `
-    <b> Roube tudo e todos ( Passiva ) </b>
-    <br/>Roube todos os objetos/itens, gold, almas de quem matar.
+    <b> Roubem Rude ( Passiva ) </b>
+    <br/>Roube todos os objetos/itens, gold, almas de quem matar e 30% do XP.
     <br/><br/>
     <b> Oculto ( Ultimate ) </b>
     <br/>Ativa uma invisibilidade que dura 3 turnos.

@@ -1,13 +1,11 @@
 const skills = [
   {
-    title: "Conversão (Passiva)",
-    isInnerHtml: true,
-    description: `Ganha SP.ATK igual a 20% da mana maxima.`,
-  },
-  {
     title: "Mago supremo (Passiva)",
     isInnerHtml: true,
-    description: `Ganha 1 carga adicinoal por turno pra cada 1000 de mana maxima.`,
+    description: `
+    Ganha SP.ATK igual a 20% da mana maxima.
+    <br/>Ganha 1 carga adicional por turno pra cada 1000 de mana maxima.
+    `,
   },
   {
     title: "Meteoro / Pele de pedra (Ativo)",

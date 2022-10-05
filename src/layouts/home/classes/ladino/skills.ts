@@ -1,14 +1,5 @@
 const skills = [
   {
-    title: "Roubar Alma (Passiva)",
-    isInnerHtml: true,
-    description: `Sempre que você finalizar um inimigo,
-    roube a essencia de vida dele, tirando 30% 
-    do xp e 20% do gold dele pra você. 
-    <br/>  <b>OBS:</b> Caso for um npc, dobre o xp 
-    ganho e chance de dropar recompensas.`,
-  },
-  {
     title: "Sombras (Passiva)",
     isInnerHtml: true,
     description: `Ao sair de "Invisibilidade" ganha um buff no 
@@ -29,16 +20,18 @@ const skills = [
     `,
   },
   {
-    title: "Roubo (Ativo)",
+    title: "Passo sombrio (Ativo)",
     isInnerHtml: true,
     description: `
     <b>Mana:</b> 20
     <br/><b>Recarga:</b> 2 turnos
-    <br/>Roube o ataque do seu adversario, desviando 
-    do golpe dele e atacando pelas costas, 
-    causando 50% do dano que ele lhe causaria.
+    <br/>Desvie do ataque do oponente e ataque ele pelas costas, 
+    causando 50% do dano que ele lhe causaria e aplicando sangramento.
     <br/><b>OBS: </b> Caso o adversario nao use uma skill
     de dano, ataque ele e cause sangramento.
+    <br/>
+    <br/>
+    <b>Passiva: </b> Ganha 50 de VEL e 25 de DEX
     `,
   },
   {

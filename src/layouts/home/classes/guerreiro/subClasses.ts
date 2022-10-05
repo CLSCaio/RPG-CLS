@@ -1,10 +1,6 @@
 const subClasses = [
   {
-    title: "Paladino",
-    description: "sadjksaldjsakdj laks",
-  },
-  {
-    title: "Arqueiro",
+    title: "Berserker",
     description: "sadjksaldjsakdj laks",
   },
   {
@@ -12,7 +8,11 @@ const subClasses = [
     description: "sadjksaldjsakdj laks",
   },
   {
-    title: "LongSword",
+    title: "Espadashim",
+    description: "sadjksaldjsakdj laks",
+  },
+  {
+    title: "DragonSlayer",
     description: "sadjksaldjsakdj laks",
   },
 ];

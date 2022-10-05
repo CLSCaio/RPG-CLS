@@ -1,3 +1,31 @@
+ITEMS
+
+Consumiveis
+
+------ Teleporter ------
+Teletransporta você pra qualquer lugar do mapa
+
+------ Pena da harpia ------
+Use para fugir da batalha
+
+------ Moeda de caronte ------
+Use para ganhar uma uma vida extra
+
+------ Ticket Bronze ------
+Da 1 de abilidade
+
+------ Ticket Prata ------
+Da 3 de abilidade
+
+------ Ticket Dourado ------
+Da 1 ponto em cada abilidade
+
+------ Cubo ------
+Te concede um dado quando usado
+
+------ Totens elementais ------
+Consome o toten para proteger de um ataque elemental especifico
+
 RELIQUIAS
 
 ------ anel da morte ------
@@ -18,6 +46,7 @@ cada level que voce upar te concede pontos de skills em dobro.
 obs: te concede um dado a mais se voce compra-lo usando uma alma de boss.
 
 ARMAS
+
 
 REGRAS
 
@@ -54,6 +83,44 @@ na base recupera 10 de mana por turno, esse regen aumentara em 10 pra cada 200 d
 ------ Carga ------
 este atributo é usada para castar algumas skills que são muito fortes, não há como aumentar com atributos,
 cada turno recupera 1 de carga.
+
+NPCs
+mercador
+colecionador
+ferreiro
+
+palhaço
+bobo da corte
+vigarista
+ilusionista
+
+RAÇAS
+humanos
+demonios
+alados
+orcs
+anões
+elfos
+esqueleto/morto-vivo
+bestiais
+sereianos
+draconata
+
+ELEMENTOS
+
+luz
+trevas
+
+fogo > vento
+agua > fogo
+vento > terra
+terra > agua
+
+1.5X
+
+divino
+
+
 
 
 

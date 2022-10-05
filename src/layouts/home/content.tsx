@@ -15,4 +15,13 @@ export const classes: AccordionList[] = [
   {
     ...C.bardo,
   },
+  {
+    ...C.clerigo,
+  },
+  {
+    ...C.ranger,
+  },
+  {
+    ...C.boboDaCorte,
+  },
 ];
