@@ -10,7 +10,7 @@ const NotFound = () => (
       variant="underline"
       label="clique aqui"
     />
-    para voltar a home
+    para voltar a hom
   </h1>
 );
 
