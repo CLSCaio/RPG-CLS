@@ -2,6 +2,6 @@ import React from "react";
 
 import { Home } from "../layouts";
 
-const Base: React.FC = () => <Home />
+const Base: React.FC = () => <Home />;
 
 export default Base;
