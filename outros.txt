@@ -1,0 +1,59 @@
+RELIQUIAS
+
+------ anel da morte ------
+custo: 3 almas da morte
+te da imortalidade, protegendo-o da morte, e recuperando toda sua vida, mana, carga e te dando uma barreira que reduz o 
+dano recebido em 50% por 2 turnos.
+obs: o anel precisa ser recarregado com almas depois de ativar seu efeito.
+almas: 0/10
+
+------ anel do dragao ------
+custo: 3 almas do dragao
+O poder anciao dos dragoes ecoa no anel, lhe concede o poder divino dos dragoes.
+te da o elemento divino para suas abilidades e ataques basicos.
+
+------ cubo de destino ------
+custo: 2000 gold
+cada level que voce upar te concede pontos de skills em dobro.
+obs: te concede um dado a mais se voce compra-lo usando uma alma de boss.
+
+ARMAS
+
+REGRAS
+
+------ level -------
+Cada vez que voce upar ira rodar um dado, o numero que cair ira poder colocar em pontos de atributo,
+alem disso cada personagem ja ganha uma quantidade predefinida de pontos por level.
+A cada 10 levels ira ganhar 10 pontos de atributo.
+
+------ DEX ------
+A destresa é a esquiva e acerto do game, quando um personagem ataca o outro ele vai jogar um dado pra Cada
+15 de dex a mais que ele tiver em cima do oponente, se ele ganhar por vantagem de 2, aumentando em 1 pra cada dado
+a mais que voce tiver, voce desvia do golpe.
+
+------ VEL ------
+Velocidade decide quem ataca primeiro no turno, caso voce tenha 100 a mais de velocidade que seu oponente, 
+voce ganha 2 turnos.
+
+------ ATK/SP.ATK ------
+O ATK e SP.ATK define o dano do personagem para cada classe especifica, alem disso o critico tambem é definido aqui,
+mesmo esquema da esquiva, porem em cima da DEF/SP.DEF.
+
+------ DEF/SP.DEF ------
+As defesas do jogo, quanto mais o jogador tem, menos dado ele leva, caso o jogador tenha mais defesa que o ataque do 
+alvo, ele bloqueia 10% de dano para cada 20 de defesa a mais que o ataque do alvo.
+
+------ HP ------
+define a vida maxima do personagem, alem disso tambem define a cura por turno que ganhara.
+na base recupera 10 de hp por turno, essa cura aumentara em 10 pra cada 200 de vida a mais que tiver.
+
+------ MANA ------
+define a mana maxima do personagem, alem disso tambem define a regen.mana por turno que ganhara.
+na base recupera 10 de mana por turno, esse regen aumentara em 10 pra cada 200 de mana a mais que tiver.
+
+------ Carga ------
+este atributo é usada para castar algumas skills que são muito fortes, não há como aumentar com atributos,
+cada turno recupera 1 de carga.
+
+
+
