@@ -24,27 +24,22 @@ export const Status = ({ status, lvl }: I.StatusProps) => (
       <CDescription text={`<b>Mana: </b>${status.mana}/${status.mana}`} />
       <CDescription text={`+ ${lvl.mana}`} />
     </Group>
-    <CDescription text={`<b>Carga: </b>${status.carga}/10`} />
+    <CDescription text={`<b>Espirito: </b>${status.espirito}/10`} />
 
     <br />
     <Group justify="space-between">
-      <CDescription text={`<b>ATK: </b>${status.atk}`} />
-      <CDescription text={`+ ${lvl.atk}`} />
+      <CDescription text={`<b>FOR: </b>${status.for}`} />
+      <CDescription text={`+ ${lvl.for}`} />
     </Group>
 
     <Group justify="space-between">
-      <CDescription text={`<b>SP.ATK: </b>${status.spAtk}`} />
-      <CDescription text={`+ ${lvl.spAtk}`} />
+      <CDescription text={`<b>INT: </b>${status.int}`} />
+      <CDescription text={`+ ${lvl.int}`} />
     </Group>
 
     <Group justify="space-between">
-      <CDescription text={`<b>DEF: </b>${status.def}`} />
-      <CDescription text={`+ ${lvl.def}`} />
-    </Group>
-
-    <Group justify="space-between">
-      <CDescription text={`<b>SP.DEF: </b>${status.spDef}`} />
-      <CDescription text={`+ ${lvl.spDef}`} />
+      <CDescription text={`<b>PRO: </b>${status.pro}`} />
+      <CDescription text={`+ ${lvl.pro}`} />
     </Group>
 
     <Group justify="space-between">

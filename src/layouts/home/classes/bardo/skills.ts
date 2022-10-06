@@ -4,7 +4,7 @@ const skills = [
     isInnerHtml: true,
     description: `
     Para cada música diferente tocada ganhe uma 
-    Nota. Para cada nota de ao bardo 2% a mais de DEF e SP.DEF.
+    Nota. Para cada nota de ao bardo 2% a mais de PRO.
     <br/>Sempre que o bardo usar uma skill no alido, 
     ele também recebe o mesmo efeito.
 
@@ -22,11 +22,12 @@ const skills = [
     <b>Carga:</b> 2
     <br/><b>Recarga:</b> 4 turnos / 2 turnos
     <br/><b>Aliado:</b>O bardo ecoa a sua sinfonia curando o 
-    aliado em 20 + 10% da mana, caso tenha 10 
-    "notas" também de xp na mesma quantia.
+    aliado em 20 + 10% da mana, 
+    <b>Passiva: </b>caso tenha 10 "notas" também de xp na mesma quantia e remova paralisia e silenciar. 
+    
     <br/><b>Inimigo:</b>O bardo ecoa a sua sinfonia causando 
     dano em 20 + 10% da vida, caso tenha 10 
-    "notas" também silencie o alvo por 2 turnos.
+    "notas" também silencie o alvo.
     `,
   },
   {
@@ -53,7 +54,7 @@ const skills = [
     <br/>O bardo envolve seu aliado com notas musicais 
     protegendo-o de qualquer dano por 3 turnos.
     <br/><b>OBS:</b>Caso tenha 10 "notas" devolva 50% do 
-    dano para o oponente e o atordoe por 2 turnos.
+    dano para o oponente e o atordoe.
     `,
   },
 ];

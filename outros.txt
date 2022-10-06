@@ -41,7 +41,7 @@ O poder anciao dos dragoes ecoa no anel, lhe concede o poder divino dos dragoes.
 te da o elemento divino para suas abilidades e ataques basicos.
 
 ------ cubo de destino ------
-custo: 2000 gold
+custo: 5000 gold
 cada level que voce upar te concede pontos de skills em dobro.
 obs: te concede um dado a mais se voce compra-lo usando uma alma de boss.
 
@@ -56,21 +56,21 @@ alem disso cada personagem ja ganha uma quantidade predefinida de pontos por lev
 A cada 10 levels ira ganhar 10 pontos de atributo.
 
 ------ DEX ------
-A destresa é a esquiva e acerto do game, quando um personagem ataca o outro ele vai jogar um dado pra Cada
-15 de dex a mais que ele tiver em cima do oponente, se ele ganhar por vantagem de 2, aumentando em 1 pra cada dado
+A DEX é a esquiva e acerto do game, quando um personagem ataca o outro ele vai jogar um dado pra cada
+15 de DEX a mais que ele tiver em cima do oponente, se ele ganhar por vantagem de 2, aumentando em 1 pra cada dado
 a mais que voce tiver, voce desvia do golpe.
 
 ------ VEL ------
-Velocidade decide quem ataca primeiro no turno, caso voce tenha 100 a mais de velocidade que seu oponente, 
+VEL decide quem ataca primeiro no turno, caso voce tenha 100 a mais de velocidade que seu oponente, 
 voce ganha 2 turnos.
 
------- ATK/SP.ATK ------
-O ATK e SP.ATK define o dano do personagem para cada classe especifica, alem disso o critico tambem é definido aqui,
-mesmo esquema da esquiva, porem em cima da DEF/SP.DEF.
+------ FOR ------
+A FOR define o dano do personagem para cada classe especifica, alem disso o critico tambem é definido aqui,
+mesmo esquema da esquiva, porem em cima da PRO.
 
------- DEF/SP.DEF ------
-As defesas do jogo, quanto mais o jogador tem, menos dado ele leva, caso o jogador tenha mais defesa que o ataque do 
-alvo, ele bloqueia 10% de dano para cada 20 de defesa a mais que o ataque do alvo.
+------ PRO ------
+As defesas do jogo, quanto mais o jogador tem, menos dado ele leva, caso o jogador tenha mais PRO que a FOR do 
+alvo, ele bloqueia 10% de dano para cada 20 de PRO a mais que a FOR do alvo.
 
 ------ HP ------
 define a vida maxima do personagem, alem disso tambem define a cura por turno que ganhara.
@@ -84,15 +84,44 @@ na base recupera 10 de mana por turno, esse regen aumentara em 10 pra cada 200 d
 este atributo é usada para castar algumas skills que são muito fortes, não há como aumentar com atributos,
 cada turno recupera 1 de carga.
 
+STATUS NEGATIVOS
+
+Todos os status negativos podem ser acumulados até 3 vezes, tirando imunidade e stun
+
+------ sangramento ------
+causa 5% da vida do alvo como dano e aumenta a chance critica
+
+------ veneno ------
+causa 5% da vida do alvo como dano e diminui a mana na mesma quantia e diminuindo a VEL em 15%
+
+------ paralisia ------
+diminui a VEL em 15% e tem chance de fazer com que não ataque
+
+------ atordoamento ------
+pula o turno
+
+------ silenciar ------
+não pode usar abilidades
+
+------ imunidade ------ 
+fica imune a dano ou status negativos
+
+------ congelamento ------
+diminui VEL em 20% e tem chance de fazer com que não ataque
+
+------ maldição ------
+diminui todos os status em 5%
+
+------ queimação ------
+causa 5% da vida do alvo como dano
+
+------ fratura ------
+diminui a PRO em 20%  e a DEX em 20%
+
 NPCs
 mercador
-colecionador
+colecionador - demonio
 ferreiro
-
-palhaço
-bobo da corte
-vigarista
-ilusionista
 
 RAÇAS
 humanos

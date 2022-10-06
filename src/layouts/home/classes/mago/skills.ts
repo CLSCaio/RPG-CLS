@@ -18,6 +18,7 @@ const skills = [
     recebido em 25% por 2 turnos, porem também diminui a velocidade na mesma quantia.
     <br/><b>Meteoro:</b> Derruba um meteoro do ceu na cabeça dos inimigos, causando um
     dano em area de 100% do SP.ATK + 100% de arma + dano elemental.
+    <b>Passiva:</b> Tem chance de causar fratura.
     `,
   },
   {
@@ -28,7 +29,7 @@ const skills = [
     <b>Carga:</b> 1
     <br/><b>Recarga:</b> 2 turnos
     <br/> Joga uma bola de fogo gigante no oponente, causando 100% do SP.ATK + 100% de arma
-    + dano elmental e aplicando queimação.
+    + dano elemental e aplicando queimação.
     `,
   },
   {
@@ -40,7 +41,7 @@ const skills = [
     <br/><b>Maresia:</b> Se cura em 20% da mana maxima e remove todos os status negativos.
     <br/><b>Tsunami:</b> Joga um tsunami nos oponentes causando 50% de SP.ATK + 100% de arma
     + dano elemental.
-    <br/><b>OBS:</b> Tem chance de causar congelamento por 2 turnos.
+    <br/><b>OBS:</b> Tem chance de causar congelamento.
     `,
   },
   {
@@ -52,7 +53,7 @@ const skills = [
     <br/><b>Recarga:</b> 4 turnos
     <br/>Crie um tornado que puxa todos os inimigos pra dentro dele causando dano 3X de 
     100% do SP.ATK + 100% de arma + dano elemental.
-    <br/><b>OBS:</b> Tem chance de stunar por 2 turnos.
+    <br/><b>OBS:</b> Tem chance de causar atordoamento.
     `,
   },
 ];

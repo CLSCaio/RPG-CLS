@@ -1,11 +1,10 @@
 type atributs = {
   hp: number;
   mana: number;
-  carga: number;
-  def: number;
-  spDef: number;
-  atk: number;
-  spAtk: number;
+  espirito: number;
+  pro: number;
+  for: number;
+  int: number;
   dex: number;
   vel: number;
 };
