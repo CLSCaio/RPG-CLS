@@ -14,17 +14,17 @@ export const ListItems = ({
   lvl,
 }: I.ListItemsProps) => (
   <Container mobileResponsive gap={[30, 30]} align="flex-start">
-    <Group direction="column">
+    <Group direction="column" gap={[10, 10]}>
       <Heading title="Skills" />
-      <Accordion list={skills} />
+      <Accordion list={skills} variant="inline" />
     </Group>
 
-    <Group direction="column">
+    <Group direction="column" gap={[10, 10]}>
       <Heading title="Sub-Classes" />
-      <Accordion list={subClasses} />
+      <Accordion list={subClasses} variant="inline" />
     </Group>
 
-    <Group maxW={250} direction="column">
+    <Group maxW={250} direction="column" gap={[10, 10]}>
       <Heading title="Status" />
       <Status status={status} lvl={lvl} />
     </Group>
