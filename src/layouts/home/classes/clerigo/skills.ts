@@ -23,8 +23,9 @@ const skills = [
     description: `
     <b>Mana: </b> 50 <b>Carga: </b> 5
     <br/><b>Recarga: </b> 5 turnos
-    <br/>Ativa uma proteção que dura até a abilidade for ativado. Essa proteção,
-    protege você e os aliados da morte, fazendo com que evite o dano fatal e recupere
+    <br/>Ativa uma proteção que dura por 2 turnos. 
+    Essa proteção aumenenta sua PRO em 50% e protege você e os aliados da morte, 
+    fazendo com que evite o dano fatal e recupere
     toda o HP, MANA e ganha 10 cargas.
     `,
   },
