@@ -5,7 +5,7 @@ const subClasses = [
     <b> Benção de druida ( Passiva ) </b>
     <br/>Druidas são amigos dos animais, podendo acalma-los e ganhando auxilio no combate.
     Eles também recebem um bônus da natureza ganhando 50% da mana maxima como vida.
-    <b>OBS:</b> Caso esteja acompanhado ganha 5% de buff em todos os status.
+    <br/><b>OBS:</b> Caso esteja acompanhado, ganhe 15% de buff em todos os status.
 
     <br/><br/>
 
@@ -14,7 +14,7 @@ const subClasses = [
     <br/><b>Recarga:</b> 2 turnos
     <br/>Puxa energia da natureza para curar uma area em de 20% da vida maxima e 
     mais 5% para cada carga gasta.
-    <b>Passiva: </b>Caso use 3 ou mais cargas também remove os status veneno, queimadura.
+    <br/><b>Passiva: </b>Caso use 3 ou mais cargas também remove os status veneno, queimadura.
   
     <br/><br/>
 
