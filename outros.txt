@@ -3,7 +3,7 @@ ITEMS
 Consumiveis
 
 ------ Teleporter ------
-Teletransporta você pra qualquer lugar do mapa
+Teletransporta você pra qualquer local do mapa
 
 ------ Pena da harpia ------
 Use para fugir da batalha
@@ -12,13 +12,13 @@ Use para fugir da batalha
 Use para ganhar uma uma vida extra
 
 ------ Ticket Bronze ------
-Da 1 de abilidade
+Da 1 ponto de atributo
 
 ------ Ticket Prata ------
-Da 3 de abilidade
+Da 3 pontos de atributo
 
 ------ Ticket Dourado ------
-Da 1 ponto em cada abilidade
+Da 5 pontos de atributo
 
 ------ Cubo ------
 Te concede um dado quando usado
@@ -26,24 +26,53 @@ Te concede um dado quando usado
 ------ Totens elementais ------
 Consome o toten para proteger de um ataque elemental especifico
 
+------ Preset ------
+Reseta todos os seus atributos.
+
+
 RELIQUIAS
 
------- anel da morte ------
+------ foice da morte ------
 custo: 3 almas da morte
-te da imortalidade, protegendo-o da morte, e recuperando toda sua vida, mana, carga e te dando uma barreira que reduz o 
-dano recebido em 50% por 2 turnos.
+te da imortalidade, protegendo-o da morte, e recuperando toda sua vida, mana, 
+carga e te dando uma barreira que reduz o dano recebido em 50% por 2 turnos.
 obs: o anel precisa ser recarregado com almas depois de ativar seu efeito.
 almas: 0/10
 
------- anel do dragao ------
+------ coração do dragao ------
 custo: 3 almas do dragao
 O poder anciao dos dragoes ecoa no anel, lhe concede o poder divino dos dragoes.
 te da o elemento divino para suas abilidades e ataques basicos.
 
------- cubo de destino ------
-custo: 5000 gold
+------ livro do destino ------
+custo: 3 almas do destino
+faz com que todas as suas skills não precise gastar mana.
+aumente o maximo de seu espirito para 20 e comece todo combate ja com 5 carregada.
+reduza pela metade o tempo de recarga das suas habilidades.
+
+------ orbe do vazio ------
+custo: 3 almas do vazio
+ao chegar a menos de 25% de vida, ganha a proteção do vazio, ficando
+imune a qualquer dano, redução de status, status negativos por 4 turnos 
+ou até atacar. Enquanto estiver na proteção do vazio, 
+recupere HP 3X mais rapido.
+
+
+------ relogio do tempo ------
+custo: 3 almas do destino
+Ao entrar em combate faça com que todos os inimigos tenham sua velocidade
+reduzida para 0, fazendo com que eles não possam atacar primeiro.
+
+------ cubo do destino------
+custo: 5000
 cada level que voce upar te concede pontos de skills em dobro.
-obs: te concede um dado a mais se voce compra-lo usando uma alma de boss.
+obs: te concede um dado a mais se voce compra-lo usando 5000 de gold a mais.
+
+------ nova era ------ 
+custo: ao conseguir as 5 reliquias dos divinos, 
+o colecionador te dara este item de presente.
+Reseta seu level para 1, mantendo seus atributos.
+obs: Este item só pode ser usado no level maximo.
 
 ARMAS
 
@@ -56,9 +85,9 @@ alem disso cada personagem ja ganha uma quantidade predefinida de pontos por lev
 A cada 10 levels ira ganhar 10 pontos de atributo.
 
 ------ DEX ------
-A DEX é a esquiva e acerto do game, quando um personagem ataca o outro ele vai jogar um dado pra cada
-15 de DEX a mais que ele tiver em cima do oponente, se ele ganhar por vantagem de 2, aumentando em 1 pra cada dado
-a mais que voce tiver, voce desvia do golpe.
+A DEX é a esquiva e acerto do game, quando um personagem ataca o outro ele vai jogar
+um dado pra cada 15 de DEX a mais que ele tiver em cima do oponente, se ele ganhar 
+por vantagem de 2, aumentando em 1 pra cada dado a mais que voce tiver, voce desvia do golpe.
 
 ------ VEL ------
 VEL decide quem ataca primeiro no turno, caso voce tenha 100 a mais de velocidade que seu oponente, 
@@ -103,9 +132,6 @@ pula o turno
 ------ silenciar ------
 não pode usar abilidades
 
------- imunidade ------ 
-fica imune a dano ou status negativos
-
 ------ congelamento ------
 diminui VEL em 20% e tem chance de fazer com que não ataque
 
@@ -118,10 +144,54 @@ causa 5% da vida do alvo como dano
 ------ fratura ------
 diminui a PRO em 20%  e a DEX em 20%
 
+BUFFS DIVINOS
+
+------ benção dos Divinos ------
+auenenta sua PRO em 50% e lhe protege de redução de status e qualquer status negativo.
+duração dentro de combate: 2 turnos.
+duração fora de combate: 10 turnos.
+ganhe ao derrotar os 5 divinos (morte, destino, tempo, vazio, dragão)
+
+------ bafo de dragão ------
+encanta sua arma com o elemento divino.
+deixa você imune a status negativos elementais.
+duração fora de combate: 7 turnos.
+ganhe apos derrotar o dragão ancestral
+
+------ vida apos a morte ------
+faz com que voce não possa morrer.
+duração dentro de combate:  só pode ser ativado uma vez por batalha.
+duração fora de combate: 7 turnos.
+ganhe apos derrotar a morte
+
+------ mundo vazio ------
+Ao entrar em combate aplique maldição a 
+todos os inimigos com o maximo de stacks possivél.
+Faz com que os inimigos tenha uma chance maior de errar os golpes.
+duração fora de combate: 7 turnos.
+ganhe apos derrotar o vazio
+
+------ olhar do destino ------
+Dobre sua regeneração de MANA e espirito.
+Saiba sempre a habilidade que seu inimigo usará.
+duração fora de combate: 7 turnos.
+ganhe apos derrotar o destino
+
+------ tempo passageiro ------
+faz com que todos os debuffs, buffs e status usados durem mais.
+faz com que todos os debuffs e status negativos em você durem menos.
+duração fora de combate: 10 turnos.
+ganhe apos derrotar o Tempo
+
+
+
+objetivos
+
+
 NPCs
-mercador
+mercador - humano
 colecionador - demonio
-ferreiro
+ferreiro - anao
 
 RAÇAS
 humanos
