@@ -10,8 +10,10 @@ const subClasses = [
     <br/><br/>
     
     <b> Copiar ( Ativo ) </b>
-    <br/>Gire uma moeda, se acertar reduza o proximo dano levado a zero e copie e devolva a 
-    abilidade inimiga com o dobro de dano, se errar diminua a propria PRO em 25%.
+    <br/><b>"Jogue uma moeda"</b>
+    <br/>se acertar reduza o dano a 0 e devolva a habilidade do oponente
+    para ele mesmo com o dobro de dano, apos isso, essa habilidade tem a recarga 0 e se torna a habilidade do inimigo,
+    se errar você leva o dobro de dano.
 
     <br/><br/>
 
@@ -27,26 +29,27 @@ const subClasses = [
     description: `
     <b> Insanidade ( Passiva ) </b>
     <br/>Ao entrar em combate gira dois dados, se eles cairem com o mesmo número.
-    <br/><b>Acerto:</b>Arlequim executa o alvo.
+    <br/><b>Acerto:</b>Execute o alvo.
     <br/><b>Erro:</b>"Insanidade" não ativará por 5 turnos.  
 
     <br/><br/>
 
     <b> Atirador de facas ( Ativo ) </b>
     <br/><b>Recarga:</b> 1 turnos
-    <br/>Arlequim brinca com suas facas "jogue uma moeda"
-    <br/><b>Acerto:</b>Arlequim às arremessa ao oponente
-    causando dano igual a 50% do HP maximo do alvo e aplicando veneno
-    <br/><b>Erro:</b>Arlequim se esfaqueia perdendo 50% do HP e aplicando veneno.  
+    <br/><b>"Jogue uma moeda"</b>
+    <br/>O palhaço brinca com suas facas. "jogue uma moeda"
+    <br/><b>Acerto:</b>Arremesse as facas ao oponente
+    causando dano igual a 50% do HP maximo dele e aplicando veneno.
+    <br/><b>Erro:</b>Se esfaqueie com as facas perdendo 50% do HP.  
   
     <br/><br/>
 
     <b> Trapaceiro ( Ultimate ) </b>
-    <br/>"Jogue uma moeda"
+    <br/><b>"Jogue uma moeda"</b>
     <br/><b>Passiva:</b>Esse efeito dura 2 turnos.
     <br/><b>Passiva:</b>Esse efeito pode ser usado fora de combate.  
-    <br/><b>Acerto:</b>Arlequim faz com que todas as moedas sejam caras, e todos os dados sejam 6.
-    <br/><b>Erro 1:</b>Arlequim jogue outra moeda porque é trapaceiro e tenta novamente.  
+    <br/><b>Acerto:</b>Faz com que todas as moedas sejam caras, e todos os dados sejam 6.
+    <br/><b>Erro 1:</b>Jogue outra moeda porque você é trapaceiro e tente novamente.  
     <br/><b>Erro 2:</b>A ultimate entra em recarga. 
 
 
