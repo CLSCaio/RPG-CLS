@@ -9,12 +9,9 @@ export const boboDaCorte = {
   children: (
     <ListItems
       lvl={atributs.lvl}
-      id="boboDaCorte"
-      title="Historia"
-      abilidades={skills}
+      skills={skills}
       subClasses={subClasses}
       status={atributs.status}
-      history="dlksajdlkjsa lkdjaslk djlk"
     />
   ),
 };

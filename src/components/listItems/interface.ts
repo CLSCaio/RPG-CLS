@@ -16,11 +16,8 @@ type atributs = {
 };
 
 export interface ListItemsProps {
-  abilidades: list[];
+  skills: list[];
   subClasses: list[];
   status: atributs;
   lvl: atributs;
-  title: string;
-  history: string;
-  id: string;
 }

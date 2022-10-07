@@ -8,52 +8,25 @@ import * as I from "./interface";
 import { Status } from "../status";
 
 export const ListItems = ({
-  abilidades,
+  skills,
   subClasses,
   status,
   lvl,
-  title,
-  history,
-  id,
 }: I.ListItemsProps) => (
-  <Group direction="column" gap={[20, 20]}>
-    <Group direction="column" gap={[5, 5]}>
-      <Heading title="" subTitle={title} />
-      <Description text={`&nbsp; &nbsp;${history}`} />
+  <Container mobileResponsive gap={[30, 30]} align="flex-start">
+    <Group direction="column">
+      <Heading title="Skills" />
+      <Accordion list={skills} />
     </Group>
-    <Container mobileResponsive gap={[10, 10]} align="flex-start">
-      <Accordion
-        maxW={440}
-        list={[
-          {
-            title: "Abilidades",
-            id: `abilidades-${id}`,
-            children: <Accordion list={abilidades} />,
-          },
-        ]}
-      />
 
-      <Accordion
-        maxW={440}
-        list={[
-          {
-            title: "Sub-Classes",
-            id: `subClasses-${id}`,
-            children: <Accordion list={subClasses} />,
-          },
-        ]}
-      />
+    <Group direction="column">
+      <Heading title="Sub-Classes" />
+      <Accordion list={subClasses} />
+    </Group>
 
-      <Accordion
-        maxW={250}
-        list={[
-          {
-            title: "Status",
-            id: `status-${id}`,
-            children: <Status status={status} lvl={lvl} />,
-          },
-        ]}
-      />
-    </Container>
-  </Group>
+    <Group maxW={250} direction="column">
+      <Heading title="Status" />
+      <Status status={status} lvl={lvl} />
+    </Group>
+  </Container>
 );

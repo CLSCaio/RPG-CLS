@@ -9,12 +9,9 @@ export const bardo = {
   children: (
     <ListItems
       lvl={atributs.lvl}
-      id="bardo"
-      title="Historia"
-      abilidades={skills}
+      skills={skills}
       subClasses={subClasses}
       status={atributs.status}
-      history="dlksajdlkjsa lkdjaslk djlk"
     />
   ),
 };
