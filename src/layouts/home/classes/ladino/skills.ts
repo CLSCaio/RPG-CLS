@@ -2,7 +2,7 @@ const skills = [
   {
     title: "Sombras (Passiva)",
     isInnerHtml: true,
-    description: `Ao sair de "Invisibilidade" ganha um buff no 
+    description: `Ao entrar em "Invisibilidade" ganha um buff no 
     proximo ataque de 150% do ATK da 
     arma, caso você tenha vantagem em velocidade ou atributo, 
     esse bonus é aumentado para 200%.
