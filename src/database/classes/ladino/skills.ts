@@ -27,18 +27,6 @@ const skills = [
     <br/><b>Passiva: </b> Caso o alvo ja esteja com sangramento, aplique atordoamento.
     `,
   },
-  {
-    title: "Corte profundo (Ativo)",
-    isInnerHtml: true,
-    description: `
-    <b>Mana:</b> 100
-    <b>Carga:</b> 2
-    <br/><b>Recarga:</b> 3 turnos
-    <br/>Ataque o adversario com um corte profundo
-    na garganta, cause dano igual a 150% de "ARMA + DEX" e aplique sangramento.
-    <br/><b>Passiva: </b> Caso o alvo esteja com sangramento o dano é dobrado.
-    `,
-  },
 ];
 
 export default skills;

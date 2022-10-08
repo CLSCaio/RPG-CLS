@@ -17,6 +17,14 @@ const subClasses = [
 
     <br/><br/>
 
+    <b> Massacre (Ativo)</b>
+    <br/><b>Carga:</b> 2
+    <br/><b>Recarga:</b> 5 turnos
+    <br/>Investe no alvo reduzindo a PRO dele em 25% e golpeando-o com 100% de FOR + 150% de Arma,
+    reduzindo a cura recebida pelo alvo em 50% por 3 turnos.
+
+    <br/><br/>
+
     <b> Golpe devastador ( Ultimate ) </b>
     <br/>Descarrega toda a força para dar um golpe brutal causando 300% de FOR + 
     300% de arma + 10% pra cada carga gasta.
@@ -30,6 +38,12 @@ const subClasses = [
     description: ` 
     <b> Alabarda ( Passiva ) </b>
     <br/>Para cada inimigo ou alido por perto, ganha 15% em todos os status.
+
+    <br/><br/>
+
+    <b> Arremesso titanico ( Ativo ) </b>
+    <br/>Lança sua arma no alvo empalando-o causando 100% da FOR e causando
+    atordoamento.
 
     <br/><br/>
 
@@ -76,12 +90,20 @@ const subClasses = [
     isInnerHtml: true,
     description: ` 
     <b> Fogo do dragão ( Passiva ) </b>
-    <br/>Embui a arma com o fogo ardente, fazendo com que todos os golpes apliquem queimadura.
+    <br/>Embui a arma com o fogo ardente, fazendo com que todos os tenha chance de aplicar queimadura.
     <br/>Ganha um bonus de 5% de redução de dano pra cada queimadura nos oponentes.
     <br/>O dragonSlayer pode stackar até 5 queimaduras em cada inimigo.
     <br/>O dragonSlayer pode absorver a alma dos dragões derrotados, ganhando 10% de todos os status
     por cada alma, ao absorver 5 almas ganha o elemento divino.
     <br/><b>Almas absorvidas: </b> 0
+
+    <br/><br/>
+
+    <b> Golpe colossal ( Ativo ) </b>
+    <br/><b>Carga:</b> 3
+    <br/><b>Recarga:</b> 2 turnos
+    <br/>Esmaga a armadura do alvo causando 100% de FOR + ARMA reduzindo sua PRO em 25%.
+    <br/><b>Passiva:</b>Caso o alvo esteja com queimadura dobre a redução de PRO.
 
     <br/><br/>
 

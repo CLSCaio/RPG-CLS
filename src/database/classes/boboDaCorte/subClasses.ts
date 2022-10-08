@@ -2,24 +2,33 @@ const subClasses = [
   {
     title: "Mimico",
     description: `
-    <b> Amaldiçoado ( Passiva ) </b>
-    <br/>Ganha acumulos de maldição sempre que matar um inimigo ou aplicar maldiçao.
-    <br/>Toda abilidade usada tem chance de aplicar maldição.
-
+    <b> Impostor ( Passiva ) </b>
+    <br/>Ao entrar em combate escolha uma passiva no campo e copie ela.
+   
+    <br/><br/>
+    
+    <b> Refletir ( Ativo ) </b>
+    <br/>Devolva o proximo dano recebido.
+    <br/><b>1 ou 6: </b>Não devolva o dano.  
+    <br/><b>2 à 5: </b>Multiplique o dano pelo número do dado. 
+    <br/><b>Passiva: </b> Não se aplica a ultimates.
     
     <br/><br/>
     
     <b> Copiar ( Ativo ) </b>
-    <br/><b>"Jogue uma moeda"</b>
-    <br/>se acertar reduza o dano a 0 e devolva a habilidade do oponente
-    para ele mesmo com o dobro de dano, apos isso, essa habilidade tem a recarga 0 e se torna a habilidade do inimigo,
-    se errar você leva o dobro de dano.
+    <br/>Copie uma habilidade do inimigo e jogue um dado.
+    <br/><b>1 ou 6: </b>Cancele a habilidade.  
+    <br/><b>2 à 5: </b>Multiplique o dano pelo número do dado. 
+    <br/><b>Passiva: </b> Não pode copiar ultimates.
 
     <br/><br/>
 
-    <b> Copiar ( Ultimate ) </b>
-    <br/>Gire uma moeda, se acertar reduza o proximo dano levado a zero e copie e devolva a 
-    abilidade inimiga com o dobro de dano, se errar diminua a propria PRO em 25%.
+    <b> Sabotagem ( Ultimate ) </b>
+    <br/> Cria uma mimica sua para receber os golpes no seu lugar, se tornando inalvejavél.
+    Todo turno "Jogue uma moeda".
+    <br/><b>Acerto: </b>A mimica continua no campo.  
+    <br/><b>Erro: </b>A mimica sai do campo. 
+    <br/><b>Passiva: </b> Não pode copiar ultimates.
     `,
     isInnerHtml: true,
   },
@@ -41,7 +50,16 @@ const subClasses = [
     <br/><b>Acerto:</b>Arremesse as facas ao oponente
     causando dano igual a 50% do HP maximo dele e aplicando veneno.
     <br/><b>Erro:</b>Se esfaqueie com as facas perdendo 50% do HP.  
-  
+
+    <br/><br/>
+
+    Atras de você (Ativo)
+    <b>Recarga:</b> 5 turnos
+    <br/><b>"Jogue uma moeda"</b>
+    <br/><b>Acerto:</b>Teletransporta-se para o alvo, caso seja um inimigo entre em combate
+    e aplique veneno.
+    <br/><b>Erro:</b>Essa habilidade não pode ser usada por 10 turnos.  
+     
     <br/><br/>
 
     <b> Trapaceiro ( Ultimate ) </b>
@@ -59,14 +77,30 @@ const subClasses = [
     title: "Bufão",
     isInnerHtml: true,
     description: `
-    <b> Domador dos 4 elementos ( Passiva ) </b>
-    <br/>O avatar tem o dominio completo dos elementos da natureza, aumentando o dado elemental
-    para 200%, alem disso 
+    <b> Substituir ( Passiva ) </b>
+    <br/>Ao entrar em combate e nos proximos turnos.
+    <br/><b>Acerto: </b>Crie um clone alvo para ficar no seu lugar na batalha, enquanto este clone estiver
+    no campo, você se tornará inalvejavél, porem você pode atacar.
+    <br/><b>Erro: </b>O clone sai do campo. 
+
     <br/><br/>
-    <b> Fusão elemental ( Ultimate ) </b>
-    <br/>Gasta toda a sua mana e carga para juntar o poder dos 4 elementos para jogar uma esfera de poder concentrada no inimigo causando dano
-    igual a 300% do SP.ATK + 100% de arma + dano 4x elemental.
-    OBS: Tem chance de aplicar queimação, paralização, congelamento e lentidão. 
+
+    <b> Dose letal  ( Ativo ) </b>
+    <br/> Esfaquei o alvo causando dano igual a 15% do HP maximo dele e aplicando veneno. 
+    <br/><b>Passiva:</b> Caso o alvo já esteja envenenado dobre o dano.
+
+    <br/><br/>
+
+    <b> Presente surpresa  ( Ativo ) </b>
+    <br/> Coloque um presente para seus inimigos no campo, caso um deles lhe ataque ou pise, 
+    cause dano igual a 15% do HP maximo deles e aplique veneno e paralisia. 
+
+    <br/><br/>
+
+    <b> Simulacro ( Ultimate ) </b>
+    <br/> Faça um clone seu que copia todas as suas skills e ataques basicos durante 3 turnos.
+    No final do terceiro turno o clone explode causando dano em area igual a 100% do dano que ele causou 
+    enquanto estava ativo. 
   `,
   },
 ];

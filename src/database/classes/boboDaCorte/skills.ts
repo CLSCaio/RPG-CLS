@@ -3,9 +3,9 @@ const skills = [
     title: "Trevo de 4 folhas (Passiva)",
     isInnerHtml: true,
     description: `
-    Sempre que for jogar um dado, jogue uma moeda.
+    Sempre que upar, jogue uma moeda.
     <br/><b>Acerto:</b>Jogue um dado extra.
-    <br/><b>Erro:</b>Só ganhe o efeito do dado girado se cair 2, 4 ou 6. 
+    <br/><b>Erro:</b>Ganhe metade dos pontos do dado, arredondando para baixo. 
 
     <br/><br/>
 
@@ -40,17 +40,6 @@ const skills = [
     <br/><b>Erro:</b>Receba 30% do HP atual como dano.  
 
     <br/><br/><b>OBS:</b>Esta habilidade pode alterar os times.
-    `,
-  },
-  {
-    title: "Atras de você (Ativo)",
-    isInnerHtml: true,
-    description: `
-    <b>Recarga:</b> 5 turnos
-    <br/><b>"Jogue uma moeda"</b>
-    <br/><b>Acerto:</b>Teletransporta-se para o alvo, caso seja um inimigo entre em combate
-    e aplique veneno.
-    <br/><b>Erro:</b>Essa habilidade não pode ser usada por 10 turnos.  
     `,
   },
 ];

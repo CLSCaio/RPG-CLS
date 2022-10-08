@@ -28,17 +28,6 @@ const skills = [
     no proximo turno em 200%.
     `,
   },
-  {
-    title: "Massacre (Ativo)",
-    isInnerHtml: true,
-    description: `
-    <b>Carga:</b> 2
-    <br/><b>Recarga:</b> 5 turnos
-    <br/>Investe no alvo reduzindo a PRO dele em 25% e golpeando-o com 100% de FOR + 150% de Arma,
-    reduzindo a cura recebida pelo alvo em 50% por 3 turnos.
-
-    `,
-  },
 ];
 
 export default skills;
