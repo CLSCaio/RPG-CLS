@@ -10,7 +10,7 @@ const subClasses = [
 
     <br/><br/>
 
-    Corte profundo (Ativo)
+    <b> Corte profundo (Ativo) </b>
     <b>Mana:</b> 100
     <b>Carga:</b> 2
     <br/><b>Recarga:</b> 3 turnos
@@ -57,7 +57,7 @@ const subClasses = [
 
     <br/><br/>
 
-    <b> Desisões rápidas ( Ativo ) </b>
+    <b> Decisões rápidas ( Ativo ) </b>
     <b>Mana:</b> 100
     <b>Carga:</b> 2
     <br/><b>Recarga:</b> 3 turnos
