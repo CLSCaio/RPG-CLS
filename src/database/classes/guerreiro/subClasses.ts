@@ -5,7 +5,7 @@ const subClasses = [
     description: `
     <b> Furia ( Passiva ) </b>
     <br/>Sempre que ficar com menos de 20% de HP receba um buff nos status de 20% 
-    e fica imune a efeitos negativos por 1 turnos.
+    e fica imune a status negativos por 1 turnos.
     <br/>Ganha 20% do HP como FOR.
 
     <br/><br/>
