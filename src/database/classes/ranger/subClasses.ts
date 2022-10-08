@@ -5,7 +5,7 @@ const subClasses = [
     isInnerHtml: true,
   },
   {
-    title: "Pistoleiro",
+    title: "Arcano",
     isInnerHtml: true,
     description: `
     <b> Amaldiçoado ( Passiva ) </b>

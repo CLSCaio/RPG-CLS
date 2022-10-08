@@ -214,97 +214,98 @@ historia
 
 elfos
 
-São seres pacificos que vivem em harmonia com a natureza e os animais, eles tem uma amizade
-com os bestiais e sereianos, por causa da briga entre os sereianos e os bestiais, os elfos
-fizeram eles selarem um tratado de paz chamado "" para em tempos de guerra para eles
-se ajudarem e se auxiliarem.
- Alem disso eles nao gostam de humanos e anões por causa da ganacia de ambos em querer
-dominar a natureza e os animais presentes nela.
+Seres sábios, pacíficos que vivem em harmonia com a natureza e os animais 
+e graças a sua índole gentil foram agraciados pela natureza com 
+longevidade e harmonia, selaram um tratado chamado "" para acabar com a guerra entre seus vizinhos 
+SEREIANOS e BESTIAIS e desde então recebe ajuda desta aliança para proteger as florestas e 
+bosques constantemente invadidas pelos humanos que buscam suas riquezas numa batalha sem fim.
 
 ------------------------------------------------------------------------------------------
 
 sereianos
 
-São seres pacificos que vivem em harmonia com a natureza e os animais, alem disso dominam
-os mares e podem controlar os animais dessa regiao, eles tem uma amizade
-com os elfos, porem eles tem uma briga com os bestiais, mas em tempos de guerras
-graças ao tratado eles se ajudam e se auxiliam juntamente com os elfos.
- Eles tem uma briga de territorio com os bestiais, com isso fazendo com que
-uma hora ou outro eles fiquem brigando entre si.
+Criaturas orgulhosas e egoístas acreditam ser os donos dos lagos e oceanos, 
+outrora inimigos dos BESTIAIS por disputas de território hoje ajudam seus companheiros 
+a defender a natureza e seus lares, por meio de um tradado formado pelos ELFOS aliaram-se 
+aos BESTIAIS e hoje lutam ferozmente para defender seus aliados nesta batalha.
 
 ------------------------------------------------------------------------------------------
 
 bestiais 
 
-São seres pacificos que vivem em harmonia com a natureza e os animais, alem disso
-podem controlar os animais da terra, eles tem uma amizade
-com os elfos, porem eles tem uma briga com os sereianos, mas em tempos de guerras
-graças ao tratado eles se ajudam e se auxiliam juntamente com os elfos.
- Eles tem uma briga de territorio com os sereianos, com isso fazendo com que
-uma hora ou outra eles fiquem brigando entre si.
+Feras humanoides formado por vários clãs diferentes vivem em vilas nas grandes florestas 
+perto de rios, possuem o maior numero de diversidade populacional com seres de vários tipos 
+e tamanhos assim como suas personalidades, antigamente travavam batalhas contra os SEREIANOS 
+por disputa de território mas após o grande tratado proposto pelos sábios ELFOS vivem em Harmonia, 
+muito poderosos em combate e com auxilio dos espíritos da terra poucos tem a coragem de enfrentar 
+seus poderosos guerreiros.
 
 ------------------------------------------------------------------------------------------
 
-humanos 
+Humanos
 
-São serem volateis, capazes dos piores atos e também dos melhores,
-graças a amizade deles com os anões os dois estão sempre se ajudando, 
-sao inimigos dos orcs, pois os mesmos sempre vivem escravizando
-os anoes e humanos. Humano e anoes tem uma aliança pela amizade dos dois
-para defenderem juntos suas fronteiras.
+A raça mais jovem desse mundo, são serem volateis, capazes dos piores atos e também dos melhores, 
+o reino dos humanos possui 3 grandes divisões chamadas de Casas, 
+cada uma localizada em uma parte do continente,
+ mesmo com suas opiniões diferentes se juntaram para se defender de um 
+ inimigo em comum: os ORCS. Tendo suas terras invadidas pelo inimigo os reinos 
+ humanos se juntaram com os ANÕES para formar a Aliança Defensora protegendo 
+ uns aos outros com diplomacia e honra.
 
 ------------------------------------------------------------------------------------------
 
-Anoes 
+Anões
 
-Anoes sao seres que fazem as melhores armas e armaduras de todo o planeta,
-tendo uma otima mão de obra, sao aliados dos humanos, sempre se unindo com eles
-em tempos de guerra, sao inimigos dos orcs, pois os mesmos sempre vivem escravizando
-os anoes e humanos. Humano e anoes tem uma aliança pela amizade dos dois
-para defenderem juntos suas fronteiras.
+Exímios forjadores vivem em grandes cidades subterrâneas possuem vasto conhecimento sobre 
+magia e artefatos, constantemente atacados pelos ORCS fizeram uma aliança com os humanos 
+para proteger seus territórios, conhecidos por sua grande liderança possuem um conselho que 
+geri seus habitantes com grande maestria e bravura para defende-los.
 
 ------------------------------------------------------------------------------------------
 
 Orcs 
 
-São seres brutos e que nao ligam muito para a natureza ou os animais, porem
-não a destroem, eles gostam de sequestrar anões por causa de sua mão de obra,
-e sua comida favorita são os humanos, vivem invadindo e tentando dominar as
-fronteiras deles.
+Forjados para batalha brutais e perversos tem a força como a verdade absoluta, 
+sempre em guerra com HUMANOS e ANÕES atacam seus inimigos buscando a gloria do combate 
+transformando os derrotados em mão de obra escrava e comida, desprezam os fracos e em busca 
+de sua expansão territorial tem os espíritos ancestrais como guia e a sede de sangue como ambição.
 
 ------------------------------------------------------------------------------------------
 
 Demonios
 
-é um dos seres mais antigo do mundo, são seres de pura escuridão,
-o primeiro deles veio do anjo caido, apos isso cada alma corrompida 
-por ele vira um demonio, são inimigos mortais dos anjos,
-pois não gostam como eles ditam as regras.
+Tao antigos quanto a própria escuridão, sendo um dos seres mais antigos do mundo, habitam o mundo 
+desde os primórdios da criação e foram forjados nas trevas , rivais dos Alados travam uma guerra de milênios, em busca de 
+fortalecer seus exércitos para a batalha contra os inimigos. Demonios oferecem poder aos 
+tolos que aceitarem seus pactos corrompendo suas almas.
 
 ------------------------------------------------------------------------------------------
 
-Anjos
+Alados
 
-é um dos seres mais antigo do mundo, são seres de pura luz, a luz que emite de
-suas asas abertas pode até cegar um humano, são ditadores de regras e gostam das coisas 
-do jeito deles, sao inimigos mortais dos demonios. Por causa disso o anjo caido se 
-rebelou e criou o submundo e os demonios.
+Uma das primeiras raças a existir, filhos da Luz são criaturas de pureza e bondade e 
+inimigos declarados dos Demônios, com o intuito de espalhar a paz pelo mundo a todo custo 
+enfrenta tudo aquilo que seja uma potencial ameaça aos planos deles, com asas majestosas 
+raramente são vistos por olhos comuns, e tendem a ser idolatrados por muitas raças, mas poucos 
+sabem sobre sua superioridade e arrogância.
 
 ------------------------------------------------------------------------------------------
 
 Draconata
 
-é um dos seres mais antigo do mundo, são seres que podem absorver o poder 
-divino do dragão ancestral. São seres pacificos e que nao gostam
-de se envolver com os assuntos do mundo, porem gostam de proteger a natureza e 
-os animais.
+Filhos de uma antiga raça de Dragões hoje extinta são conhecidos por sua 
+lealdade e justiça, vivem em montanhas e vulcões são criaturas territoriais 
+e não gostam de se envolver nos assuntos mundano, dominam o elemento (Fogo) 
+e são excelentes combatentes.
 
 ------------------------------------------------------------------------------------------
 
 esqueleto/morto-vivo
 
-São seres mortos reanimados por algum pacto com demonio ou algum necromante.
-por causa disso não pegam doenças ou qualquer praga de seres vivos.
+São seres reanimados através de magia negra, os esqueletos se rebelaram e começaram a criar 
+seu próprio reino, hoje buscam poder e novos membros para se juntar a seus 
+ideais mesmo que por maneiras nefastas e contra a vontade daqueles que
+os encontrarem e forem tolos o suficiente para adentrar seus territórios.
 
 
 DIVINOS
@@ -326,18 +327,18 @@ foi ele que criou os orcs e anoes.
 vazio
 é responsavel pelo vazio e controla o espaço-tempo, podendo viajar entre passado,
 presente e futuro, tambem pode engolir o universo todo com vasta escuridão.
-foi ele que criou os anjos.
+foi ele que criou os Demonios com a escuridão.
 
 tempo
 o tempo é responsavel pelo envelhecimento das coisas, sem ela nada envelheceria e seria
 imortal, tudo com ele é relativo, sabe a hora que cada ser vivo ira morrer, ate mesmo
-os divinos.
+os divinos, criou os alados com pura luz.
 
-dragão ancestral
+Dragão ancestral
 o dragão ancestral é responsavel pelos 4 elementos naturais da natureza,
 como fogo, agua, ar e terra, todos os outros veio a partir deles,
 tambem é responsavel pela criação dos animais e da natureza, e foi ele
-que fizar os draconata, para ajuda-lo a cuidar do que tanto gosta.
+que criou os dragões, uma raçã ja extinta, para ajuda-lo a cuidar do que tanto gosta.
 
 
 

@@ -1,11 +1,11 @@
-import { ListItems } from "../../../../components";
+import { ListItems } from "../../../components";
 
 import atributs from "./atributs";
 import subClasses from "./subClasses";
 import skills from "./skills";
 
-export const ladino = {
-  title: "Ladino",
+export const ranger = {
+  title: "Ranger",
   children: (
     <ListItems
       lvl={atributs.lvl}
