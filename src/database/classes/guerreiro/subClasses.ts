@@ -47,30 +47,30 @@ const subClasses = [
     <br/><b>Passiva:</b>Tem chance de aplicar fratura.
     `,
   },
-  {
-    title: "Espadashim",
-    isInnerHtml: true,
-    description: ` 
-    <b> Mestre das armas ( Passiva ) </b>
-    <br/>Caso esteja sozinho com o inimigo, sua DEX aumenta em 100%.
-    <br/>Utiliza DEX como fonte de dano.
+  // {
+  //   title: "Espadashim",
+  //   isInnerHtml: true,
+  //   description: `
+  //   <b> Mestre das armas ( Passiva ) </b>
+  //   <br/>Caso esteja sozinho com o inimigo, sua DEX aumenta em 100%.
+  //   <br/>Utiliza DEX como fonte de dano.
 
-    <br/><br/>
+  //   <br/><br/>
 
-    <b> Corte rápido ( Ativo ) </b>
-    <br/><b>Carga:</b> 4
-    <br/><b>Recarga:</b> 2 turnos
-    <br/>Desfere um golpe rapido causando 100% FOR + Arma + VEL 
-    e ganhando 25% de VEL ao final do ataque.
-    <br/><b>Passiva:</b> Esta velocidade pode ser acumulada até 5 vezes.
+  //   <b> Corte rápido ( Ativo ) </b>
+  //   <br/><b>Carga:</b> 4
+  //   <br/><b>Recarga:</b> 2 turnos
+  //   <br/>Desfere um golpe rapido causando 100% FOR + Arma + VEL
+  //   e ganhando 25% de VEL ao final do ataque.
+  //   <br/><b>Passiva:</b> Esta velocidade pode ser acumulada até 5 vezes.
 
-    <br/><br/>
+  //   <br/><br/>
 
-    <b> 1000 cortes ( Ultimate ) </b>
-    <br/>Investe ao alvo em alta velocidade, cortando-o 1000 vezes, 
-    causando 200% FOR + Arma + 100% VEL e aplicando atordoamento.
-    `,
-  },
+  //   <b> 1000 cortes ( Ultimate ) </b>
+  //   <br/>Investe ao alvo em alta velocidade, cortando-o 1000 vezes,
+  //   causando 200% FOR + Arma + 100% VEL e aplicando atordoamento.
+  //   `,
+  // },
   {
     title: "DragonSlayer",
     isInnerHtml: true,
