@@ -144,6 +144,9 @@ causa 5% da vida do alvo como dano
 ------ fratura ------
 diminui a PRO em 20%  e a DEX em 20%
 
+------ sono ------
+joga uma moeda, se errar, o alvo não ataca.
+
 BUFFS DIVINOS
 
 ------ benção dos Divinos ------

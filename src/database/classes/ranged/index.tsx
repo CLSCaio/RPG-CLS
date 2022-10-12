@@ -4,8 +4,8 @@ import atributs from "./atributs";
 import subClasses from "./subClasses";
 import skills from "./skills";
 
-export const acolito = {
-  title: "Acólito",
+export const ranged = {
+  title: "Ranged",
   children: (
     <ListItems
       lvl={atributs.lvl}

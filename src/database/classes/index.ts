@@ -3,8 +3,8 @@ import { ladino } from "./ladino";
 import { guerreiro } from "./guerreiro";
 import { mago } from "./mago";
 import { bardo } from "./bardo";
-import { acolito } from "./acolito";
-import { ranger } from "./ranger";
+import { cultista } from "./cultista";
+import { ranged } from "./ranged";
 import { boboDaCorte } from "./boboDaCorte";
 
 export const classes: AccordionList[] = [
@@ -21,10 +21,10 @@ export const classes: AccordionList[] = [
     ...bardo,
   },
   {
-    ...acolito,
+    ...cultista,
   },
   {
-    ...ranger,
+    ...ranged,
   },
   {
     ...boboDaCorte,

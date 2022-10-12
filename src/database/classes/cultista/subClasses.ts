@@ -35,7 +35,7 @@ const subClasses = [
     `,
   },
   {
-    title: "Sacerdote Sombrio",
+    title: "Apocalipse",
     isInnerHtml: true,
     description: `
       <b> Visões sombrias ( Passiva ) </b>
