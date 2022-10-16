@@ -6,12 +6,8 @@ const routes: Routes[] = [
     label: "Home",
   },
   {
-    href: "/classes",
-    label: "Classes",
-  },
-  {
-    href: "/raças",
-    label: "Raças",
+    href: "/classes&racas",
+    label: "Classes/Raças",
   },
   {
     href: "/divinos",
