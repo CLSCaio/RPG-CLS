@@ -4,7 +4,7 @@ const subClasses = [
     isInnerHtml: true,
     description: `
     <b> Conversão ( Passiva ) </b>
-    <br/>Converte o bônus da passiva para INT e VEL
+    <br/>Converte o bônus da passiva "Notas" para INT e VEL
 
     <br/><br/>
 
@@ -48,7 +48,7 @@ const subClasses = [
     title: "Maestro",
     isInnerHtml: true,
     description: `
-    <b> Soprano ( Passiva ) </b>
+    <b> Orquestra ( Passiva ) </b>
     <br/>Ao entrar em combate e a cada turno subscequente aplique um buff
     nos aliados e um debuff nos inimigos.
     <br/><b> OBS: </b> O buff/Debuff aumenta/diminui o status primario do alvo em 5%.
