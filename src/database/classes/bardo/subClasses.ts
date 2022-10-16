@@ -15,7 +15,7 @@ const subClasses = [
 
     <br/><br/>
     
-    <b> Conversão ( Ultimate ) </b>
+    <b> Notas explosivas ( Ultimate ) </b>
     <br/>Gasta todas as suas "notas" para causar
     um dano massivo ao oponente igual à 300% do dano de ARMA e INT
     e + 5% do HP maximo do alvo para cada "nota" gasta.
