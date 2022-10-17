@@ -1,7 +1,6 @@
 import React from "react";
-import { Group, Accordion, Description, Container } from "library-caiol.sousa";
+import { Group, Accordion, Container } from "library-caiol.sousa";
 
-import styled from "styled-components";
 import { Heading } from "../heading";
 
 import * as I from "./interface";
