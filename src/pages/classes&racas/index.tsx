@@ -8,12 +8,22 @@ const classes_racas = () => (
   <Container direction="column" gap={[40, 20]}>
     <Group gap={[20, 20]} direction="column" align="center">
       <Heading title="Raças" />
-      <Accordion list={racas} icon="arrow" variant="default" />
+      <Accordion
+        list={racas}
+        icon="arrow"
+        variant="default"
+        colors={["#fff", "#eff"]}
+      />
     </Group>
 
     <Group gap={[20, 20]} direction="column" align="center">
       <Heading title="Classes" />
-      <Accordion list={classes} icon="arrow" variant="default" />
+      <Accordion
+        list={classes}
+        icon="arrow"
+        variant="default"
+        colors={["#fff", "#eff"]}
+      />
     </Group>
   </Container>
 );

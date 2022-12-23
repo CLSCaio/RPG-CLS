@@ -215,8 +215,9 @@ divino
 DIVINOS
 
 Divinos são os primeiros seres que existiram no universo, porem não se sabe ao 
-certo qual deles veio primeiro, porem sabe-se que cada um é responsavel por algo.
-Eles não se envolvem em assuntos dos seres vivos e seus poderes são desconhecidos.
+certo qual deles veio primeiro e quando passaram a existir, porem sabe-se que eles são responsaveis pela criação
+de tudo aquilo que conhecemos e somos.
+Eles não se envolvem em assuntos dos  mortais e seus poderes são desconhecidos.
 
 morte
 controla a vida e a morte de todos os seres, ela é responsavel pela criação e invenção
@@ -224,7 +225,7 @@ das almas, tambem controlando quantas sai e entra no sagrado.
 foi ela que criou os humanos e os elfos.
 
 destino
-é responsavel pelo destino de todos os seres vivos, e sabe passado, futuro e presente
+é responsavel pelo destino de todos os mortais, e sabe passado, futuro e presente
 de todos eles e tambem como cada um irá morrer mas nao como.
 foi ele que criou os orcs e anoes.
 

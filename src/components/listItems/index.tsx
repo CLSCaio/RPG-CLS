@@ -15,12 +15,20 @@ export const ListItems = ({
   <Container mobileResponsive gap={[30, 30]} align="flex-start">
     <Group direction="column" gap={[10, 10]}>
       <Heading title="Skills" />
-      <Accordion list={skills} variant="inline" />
+      <Accordion
+        list={skills}
+        variant="inline"
+        colors={[undefined, undefined, "#00f"]}
+      />
     </Group>
 
     <Group direction="column" gap={[10, 10]}>
       <Heading title="Sub-Classes" />
-      <Accordion list={subClasses} variant="inline" />
+      <Accordion
+        list={subClasses}
+        variant="onlyBg"
+        colors={[undefined, undefined, "#00f"]}
+      />
     </Group>
 
     <Group maxW={250} direction="column" gap={[10, 10]}>
